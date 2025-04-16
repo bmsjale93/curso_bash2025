@@ -1,0 +1,10 @@
+Este es un archivo nuevo para el usuario
+Buscaremos la palabra eRror
+En cada linea que escribiremos una advertencia para el usuario
+Habrá que mirar la Configuración del sistema
+Aquí tendremos que mostrar una advertencia
+Ya que el error puede encontrarse en la confiGuración
+El problema es que no hay suficientes advertencias
+Aunque un errOr no es fácil de encontrar, como un usuario
+O el erRor puede ser buscar el mismo
+Continuaremos buscando el Error

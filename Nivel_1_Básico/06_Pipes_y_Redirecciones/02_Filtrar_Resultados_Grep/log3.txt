@@ -1,0 +1,5 @@
+bmsjale     1323  0.0  0.2   9128  6016 tty1     S+   oct23   0:01 -bash
+bmsjale    99371  0.0  0.1   7472  3968 ?        Ss   08:49   0:00 -bash
+bmsjale    99577  0.0  0.2   8912  5760 pts/5    Ss   08:49   0:00 /bin/bash --init-file /home/bmsjale/.vscode-server/cli/servers/Stable-33fc5a94a3f99ebe7087e8fe79fbe1d37a251016/server/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+bmsjale   101217  0.0  0.2   8912  4052 pts/5    S+   10:06   0:00 /bin/bash --init-file /home/bmsjale/.vscode-server/cli/servers/Stable-33fc5a94a3f99ebe7087e8fe79fbe1d37a251016/server/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+bmsjale   101230  0.0  0.1   6544  2304 pts/5    S+   10:06   0:00 grep bash

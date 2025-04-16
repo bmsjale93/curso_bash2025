@@ -1,0 +1,6 @@
+Esto es un archivo de prueba
+Aqui buscaremos cuantos error contiene el archivo
+Aunque un error no es fácil de encontrar
+Básicamente, cualquier linea puede contener un error
+Asi que busca bien
+Por que el error está en cualquier parte...

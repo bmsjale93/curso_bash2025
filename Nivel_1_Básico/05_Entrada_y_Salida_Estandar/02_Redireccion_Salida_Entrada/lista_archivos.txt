@@ -1,0 +1,8 @@
+01_problemas.sh
+copia_numeros.txt
+copia.txt
+fecha.txt
+lista_archivos.txt
+log.txt
+mensaje.txt
+numeros.txt
